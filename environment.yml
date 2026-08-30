@@ -1,0 +1,19 @@
+name: benimoussa
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - numpy=2.5
+  - pandas=2.3
+  - scikit-learn=1.9
+  - py-xgboost=3.4
+  - scipy=1.18
+  - matplotlib=3.11
+  - rasterio=1.5
+  - geopandas=1.1
+  - pyproj=3.7
+  - openpyxl=3.1
+  - joblib=1.5
+  - pip
+  - pip:
+      - python-docx

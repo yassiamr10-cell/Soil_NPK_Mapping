@@ -1,0 +1,53 @@
+{
+  "title": "Soil macronutrient mapping in the Beni Moussa irrigated district, Tadla Plain, Morocco: data, code and 10 m products",
+  "upload_type": "dataset",
+  "license": "cc-by-4.0",
+  "version": "1.0.0",
+  "creators": [
+    {
+      "name": "Amrouss, Yassine",
+      "affiliation": "Data4Earth Laboratory, Sultan Moulay Slimane University"
+    },
+    {
+      "name": "Arioua, Abdelkrim"
+    },
+    {
+      "name": "Elhamdouni, Driss"
+    },
+    {
+      "name": "El Baghdadi, Mohamed"
+    },
+    {
+      "name": "Barakat, Ahmed"
+    },
+    {
+      "name": "El Atiq, Jaouad"
+    },
+    {
+      "name": "Ouchkir, Insaf"
+    },
+    {
+      "name": "Bimouhen, Mostafa"
+    },
+    {
+      "name": "Nait-taleb, Oussama"
+    },
+    {
+      "name": "Hilali, Abdessamad"
+    }
+  ],
+  "keywords": [
+    "digital soil mapping",
+    "spatial cross-validation",
+    "area of applicability",
+    "Sentinel-2",
+    "soil nitrogen",
+    "soil phosphorus",
+    "soil potassium",
+    "Tadla Plain",
+    "Morocco",
+    "random forest",
+    "XGBoost"
+  ],
+  "description": "Analysis-ready data, complete analysis code, cross-validation fold assignments, out-of-fold predictions and georeferenced 10 m prediction, uncertainty, dissimilarity and applicability rasters supporting the article 'High-resolution mapping of soil macronutrients in a semi-arid climate (Morocco) using Sentinel-2 data and machine learning models', submitted to Environmental Monitoring and Assessment. 110 composite topsoil samples (0-20 cm) and 40 Sentinel-2 predictors; performance assessed by nested spatial block cross-validation over 10 spatial blocks. The eleven 10 m GeoTIFFs are included in this Zenodo record but not in the GitHub repository."
+}

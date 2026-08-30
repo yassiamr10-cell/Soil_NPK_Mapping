@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the article below."
+title: "Soil macronutrient mapping in the Beni Moussa irrigated district, Morocco: data and code"
+abstract: >-
+  Analysis-ready data, complete analysis code, cross-validation fold assignments,
+  out-of-fold predictions and georeferenced 10 m prediction, uncertainty,
+  dissimilarity and applicability products for 110 composite topsoil samples from the
+  Beni Moussa irrigated district, Tadla Plain, Morocco, predicted from Sentinel-2
+  surface reflectance under nested spatial block cross-validation.
+type: dataset
+authors:
+  - family-names: Amrouss
+    given-names: Yassine
+    email: yassine.amrouss@usms.ma
+    affiliation: "Data4Earth Laboratory, Sultan Moulay Slimane University"
+  - family-names: Arioua
+    given-names: Abdelkrim
+  - family-names: Elhamdouni
+    given-names: Driss
+  - family-names: El Baghdadi
+    given-names: Mohamed
+  - family-names: Barakat
+    given-names: Ahmed
+  - family-names: El Atiq
+    given-names: Jaouad
+  - family-names: Ouchkir
+    given-names: Insaf
+  - family-names: Bimouhen
+    given-names: Mostafa
+  - family-names: Nait-taleb
+    given-names: Oussama
+  - family-names: Hilali
+    given-names: Abdessamad
+version: 1.0.0
+date-released: 2026-08-28
+license: CC-BY-4.0
+repository-code: "https://github.com/YOUR-GITHUB-USERNAME/beni-moussa-npk-mapping"
+keywords:
+  - digital soil mapping
+  - spatial cross-validation
+  - area of applicability
+  - Sentinel-2
+  - soil nitrogen
+  - soil phosphorus
+  - soil potassium
+  - Tadla Plain
+  - Morocco
